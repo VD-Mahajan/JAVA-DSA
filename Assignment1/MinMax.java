@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 class MinMax{
     static int minmaxSum(int[] arr){
         int max=Integer.MIN_VALUE;

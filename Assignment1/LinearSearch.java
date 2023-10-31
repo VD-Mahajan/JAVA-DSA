@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class LinearSearch {
     static int count(int[] arr,int num){
         int count=0;

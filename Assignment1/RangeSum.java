@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class RangeSum {
     public static void main(String[] args) {
         int[] A=new int[] {1,2,3,4,5};   

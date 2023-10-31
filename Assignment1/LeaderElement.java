@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class LeaderElement {
    public static void main(String[] args) {
         int[] arr=new int[]{16,17,4,3,5,2};

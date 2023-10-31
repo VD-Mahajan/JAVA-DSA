@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class TimeToEquality {
     public static void main(String[] args) {
         int[] arr=new int[]{2,4,1,3,2};

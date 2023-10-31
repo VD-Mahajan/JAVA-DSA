@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class PrefixSum {
     public static void main(String[] args) {
         int[] arr=new int[]{1,2,3,4,5};

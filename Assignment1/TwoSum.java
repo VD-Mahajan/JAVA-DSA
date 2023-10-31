@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class TwoSum {
     
 }

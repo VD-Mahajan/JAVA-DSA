@@ -1,4 +1,4 @@
-package Assignment01;
+package Assignment1;
 public class ReverseNumber {
     static long reverse(int x){
         long rev=0;
