@@ -1,4 +1,4 @@
-package RecursionAssignment;
+package Recursion01;
 
 public class OccurenceOfDigit {
 	static int occurenceOfDigit(int num, int digit) {

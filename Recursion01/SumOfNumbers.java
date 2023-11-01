@@ -1,4 +1,4 @@
-package RecursionAssignment;
+package Recursion01;
 
 public class SumOfNumbers {
 	static int sumOfNumbers(int n) {

@@ -1,4 +1,4 @@
-package RecursionAssignment;
+package Recursion01;
 
 public class LengthOfDigit {
 	static int length(int n) {

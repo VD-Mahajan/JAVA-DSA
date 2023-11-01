@@ -1,4 +1,4 @@
-package RecursionAssignment;
+package Recursion01;
 
 public class Prime {
 	 static boolean isPrime(int n,int i) {
