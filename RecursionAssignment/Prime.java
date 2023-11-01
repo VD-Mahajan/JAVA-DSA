@@ -12,7 +12,7 @@ public class Prime {
 		 return isPrime(n, i+1);
 	     	 
 	 }
-	 
+	
 	 public static void main(String[] args) {
 		if(isPrime(97,2)) {
 			System.out.println("Yes");
