@@ -27,8 +27,7 @@ public class SearchFirstOccurence {
 			return firstOccurence(arr,mid+1,end,element);
 		else
 			return firstOccurence(arr,start,mid-1,element);
-		
-			
+				
 	}
 	
 	public static void main(String[] args) {
