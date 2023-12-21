@@ -207,7 +207,7 @@ public class SinglyLinkedList {
 				case 6:{
 					System.out.println("Enter pos : ");
 					int pos = sc.nextInt();
-					ll.deleteAtPos(choice);
+					ll.deleteAtPos(pos);
 					break;
 				}
 				case 7:
