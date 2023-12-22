@@ -152,7 +152,7 @@ public class DoublyLinkedList {
 		char ch;
 
 		do {
-			System.out.println("Singly LinkedList");
+			System.out.println("Doubly LinkedList");
 			System.out.println("1) Add First");
 			System.out.println("2) Add Last");
 			System.out.println("3) Add at Pos");
@@ -160,7 +160,7 @@ public class DoublyLinkedList {
 			System.out.println("5) Delete Last");
 			System.out.println("6) Delete at Pos");
 			System.out.println("7) CountNode");
-			System.out.println("8) Print Singly LinkedList");
+			System.out.println("8) Print Doubly LinkedList");
 
 			System.out.println("Enter your choice : ");
 			Scanner sc = new Scanner(System.in);
