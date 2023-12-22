@@ -15,24 +15,6 @@ class LinkedList{
 	Node head = null;
 
 
-	void addLast(int data) {
-		Node newNode = new Node(data);
-
-		if(head==null) {
-
-			head=newNode;
-
-		}else {
-			Node temp = head;
-
-			while(temp.next!=null) {
-
-				temp = temp.next;	
-			}
-
-			temp.next=newNode;
-		}
-	}
 
 	void addFirst(int data) {
 		Node newNode = new Node(data);
@@ -44,6 +26,24 @@ class LinkedList{
 		}
 	}
 
+	void addLast(int data) {
+		Node newNode = new Node(data);
+		
+		if(head==null) {
+			
+			head=newNode;
+			
+		}else {
+			Node temp = head;
+			
+			while(temp.next!=null) {
+				
+				temp = temp.next;	
+			}
+			
+			temp.next=newNode;
+		}
+	}
 	void addAtPos(int pos,int data) {
 
 		if(pos<=0 || pos>=countNode()+2) {
